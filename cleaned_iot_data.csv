@@ -1,331 +1,301 @@
-timestamp,device_id,data_type,data_value,location,closest_city,status,origin,destination,numeric_value
-2025-04-29 12:08:30.336512,PKG85046,temperature,26.0,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,26.0
-2025-04-29 12:08:30.336512,PKG85046,humidity,51.6,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,51.6
-2025-04-29 12:08:30.336512,PKG85046,shock,0.2,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,0.2
-2025-04-29 12:08:30.336512,PKG85046,temperature,26.0,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,26.0
-2025-04-29 12:08:30.336512,PKG85046,humidity,51.6,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,51.6
-2025-04-29 12:08:30.336512,PKG85046,shock,0.2,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow,0.2
-2025-04-29 13:17:30.336512,PKG59811,temperature,11.7,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,11.7
-2025-04-29 13:17:30.336512,PKG59811,humidity,84.9,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,84.9
-2025-04-29 13:17:30.336512,PKG59811,shock,0.2,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,0.2
-2025-04-29 13:17:30.336512,PKG59811,temperature,11.7,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,11.7
-2025-04-29 13:17:30.336512,PKG59811,humidity,84.9,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,84.9
-2025-04-29 13:17:30.336512,PKG59811,shock,0.2,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul,0.2
-2025-04-29 14:36:30.336512,PKG80313,temperature,34.1,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,34.1
-2025-04-29 14:36:30.336512,PKG80313,humidity,83.4,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,83.4
-2025-04-29 14:36:30.336512,PKG80313,shock,0.04,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,0.04
-2025-04-29 14:36:30.336512,PKG80313,temperature,34.1,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,34.1
-2025-04-29 14:36:30.336512,PKG80313,humidity,83.4,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,83.4
-2025-04-29 14:36:30.336512,PKG80313,shock,0.04,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul,0.04
-2025-04-29 15:23:30.336512,PKG90642,temperature,21.8,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,21.8
-2025-04-29 15:23:30.336512,PKG90642,humidity,49.2,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,49.2
-2025-04-29 15:23:30.336512,PKG90642,shock,0.48,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,0.48
-2025-04-29 15:23:30.336512,PKG90642,temperature,21.8,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,21.8
-2025-04-29 15:23:30.336512,PKG90642,humidity,49.2,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,49.2
-2025-04-29 15:23:30.336512,PKG90642,shock,0.48,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo,0.48
-2025-04-29 16:06:30.336512,PKG86797,temperature,13.9,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,13.9
-2025-04-29 16:06:30.336512,PKG86797,humidity,81.2,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,81.2
-2025-04-29 16:06:30.336512,PKG86797,shock,0.37,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,0.37
-2025-04-29 16:06:30.336512,PKG86797,temperature,13.9,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,13.9
-2025-04-29 16:06:30.336512,PKG86797,humidity,81.2,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,81.2
-2025-04-29 16:06:30.336512,PKG86797,shock,0.37,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin,0.37
-2025-04-29 22:21:30.336512,PKG40354,temperature,29.5,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,29.5
-2025-04-29 22:21:30.336512,PKG40354,humidity,88.1,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,88.1
-2025-04-29 22:21:30.336512,PKG40354,shock,0.29,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,0.29
-2025-04-29 22:21:30.336512,PKG40354,temperature,29.5,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,29.5
-2025-04-29 22:21:30.336512,PKG40354,humidity,88.1,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,88.1
-2025-04-29 22:21:30.336512,PKG40354,shock,0.29,"3.1486, 101.0205",Singapore,Delivered,London,Singapore,0.29
-2025-04-30 03:12:30.336512,PKG15600,temperature,13.0,"40.8456, -76.0098",New York,In Transit,New York,Toronto,13.0
-2025-04-30 03:12:30.336512,PKG15600,humidity,82.8,"40.8456, -76.0098",New York,In Transit,New York,Toronto,82.8
-2025-04-30 03:12:30.336512,PKG15600,shock,0.48,"40.8456, -76.0098",New York,In Transit,New York,Toronto,0.48
-2025-04-30 03:12:30.336512,PKG15600,temperature,13.0,"40.8456, -76.0098",New York,In Transit,New York,Toronto,13.0
-2025-04-30 03:12:30.336512,PKG15600,humidity,82.8,"40.8456, -76.0098",New York,In Transit,New York,Toronto,82.8
-2025-04-30 03:12:30.336512,PKG15600,shock,0.48,"40.8456, -76.0098",New York,In Transit,New York,Toronto,0.48
-2025-04-30 04:16:30.336512,PKG98223,temperature,19.8,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,19.8
-2025-04-30 04:16:30.336512,PKG98223,humidity,90.9,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,90.9
-2025-04-30 04:16:30.336512,PKG98223,shock,0.19,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,0.19
-2025-04-30 04:16:30.336512,PKG98223,temperature,19.8,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,19.8
-2025-04-30 04:16:30.336512,PKG98223,humidity,90.9,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,90.9
-2025-04-30 04:16:30.336512,PKG98223,shock,0.19,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo,0.19
-2025-04-30 04:39:30.336512,PKG68596,temperature,13.0,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,13.0
-2025-04-30 04:39:30.336512,PKG68596,humidity,71.2,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,71.2
-2025-04-30 04:39:30.336512,PKG68596,shock,0.44,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,0.44
-2025-04-30 04:39:30.336512,PKG68596,temperature,13.0,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,13.0
-2025-04-30 04:39:30.336512,PKG68596,humidity,71.2,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,71.2
-2025-04-30 04:39:30.336512,PKG68596,shock,0.44,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City,0.44
-2025-04-30 06:25:30.336512,PKG47157,temperature,2.3,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,2.3
-2025-04-30 06:25:30.336512,PKG47157,humidity,91.6,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,91.6
-2025-04-30 06:25:30.336512,PKG47157,shock,0.16,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,0.16
-2025-04-30 06:25:30.336512,PKG47157,temperature,2.3,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,2.3
-2025-04-30 06:25:30.336512,PKG47157,humidity,91.6,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,91.6
-2025-04-30 06:25:30.336512,PKG47157,shock,0.16,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo,0.16
-2025-04-30 09:02:30.336512,PKG56828,temperature,29.6,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo,29.6
-2025-04-30 09:02:30.336512,PKG56828,humidity,66.5,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo,66.5
-2025-04-30 09:02:30.336512,PKG56828,shock,0.02,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo,0.02
-2025-04-30 09:11:30.336512,PKG83969,temperature,20.2,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore,20.2
-2025-04-30 09:11:30.336512,PKG83969,humidity,75.4,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore,75.4
-2025-04-30 09:11:30.336512,PKG83969,shock,0.42,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore,0.42
-2025-04-30 10:38:30.336512,PKG52880,temperature,20.4,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town,20.4
-2025-04-30 10:38:30.336512,PKG52880,humidity,75.5,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town,75.5
-2025-04-30 10:38:30.336512,PKG52880,shock,0.2,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town,0.2
-2025-04-30 10:59:30.336512,PKG89273,temperature,11.4,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town,11.4
-2025-04-30 10:59:30.336512,PKG89273,humidity,76.7,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town,76.7
-2025-04-30 10:59:30.336512,PKG89273,shock,0.47,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town,0.47
-2025-04-30 15:09:30.336512,PKG14324,temperature,22.9,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago,22.9
-2025-04-30 15:09:30.336512,PKG14324,humidity,60.8,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago,60.8
-2025-04-30 15:09:30.336512,PKG14324,shock,0.09,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago,0.09
-2025-04-30 17:04:30.336512,PKG36641,temperature,16.9,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore,16.9
-2025-04-30 17:04:30.336512,PKG36641,humidity,61.4,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore,61.4
-2025-04-30 17:04:30.336512,PKG36641,shock,1.98,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore,1.98
-2025-04-30 21:25:30.336512,PKG43719,temperature,29.7,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila,29.7
-2025-04-30 21:25:30.336512,PKG43719,humidity,86.6,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila,86.6
-2025-04-30 21:25:30.336512,PKG43719,shock,0.03,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila,0.03
-2025-04-30 22:13:30.336512,PKG16801,temperature,22.6,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City,22.6
-2025-04-30 22:13:30.336512,PKG16801,humidity,54.4,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City,54.4
-2025-04-30 22:13:30.336512,PKG16801,shock,0.11,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City,0.11
-2025-04-30 22:16:30.336512,PKG93441,temperature,26.8,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila,26.8
-2025-04-30 22:16:30.336512,PKG93441,humidity,83.5,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila,83.5
-2025-04-30 22:16:30.336512,PKG93441,shock,0.32,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila,0.32
-2025-04-30 22:31:30.336512,PKG80316,temperature,32.7,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney,32.7
-2025-04-30 22:31:30.336512,PKG80316,humidity,41.7,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney,41.7
-2025-04-30 22:31:30.336512,PKG80316,shock,0.29,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney,0.29
-2025-04-30 23:22:30.336512,PKG24388,temperature,11.1,"45.6035, -41.4799",New York,In Transit,London,Los Angeles,11.1
-2025-04-30 23:22:30.336512,PKG24388,humidity,73.8,"45.6035, -41.4799",New York,In Transit,London,Los Angeles,73.8
-2025-04-30 23:22:30.336512,PKG24388,shock,0.29,"45.6035, -41.4799",New York,In Transit,London,Los Angeles,0.29
-2025-05-01 03:36:30.336512,PKG68243,temperature,7.1,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul,7.1
-2025-05-01 03:36:30.336512,PKG68243,humidity,62.5,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul,62.5
-2025-05-01 03:36:30.336512,PKG68243,shock,0.02,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul,0.02
-2025-05-01 04:15:30.336512,PKG52318,temperature,0.8,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney,0.8
-2025-05-01 04:15:30.336512,PKG52318,humidity,87.1,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney,87.1
-2025-05-01 04:15:30.336512,PKG52318,shock,0.13,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney,0.13
-2025-05-01 07:34:30.336512,PKG14158,temperature,10.6,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok,10.6
-2025-05-01 07:34:30.336512,PKG14158,humidity,72.3,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok,72.3
-2025-05-01 07:34:30.336512,PKG14158,shock,0.01,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok,0.01
-2025-05-01 11:51:30.336512,PKG21130,temperature,25.8,"43.9253, -69.2618",New York,Delayed,Chicago,Paris,25.8
-2025-05-01 11:51:30.336512,PKG21130,humidity,79.9,"43.9253, -69.2618",New York,Delayed,Chicago,Paris,79.9
-2025-05-01 11:51:30.336512,PKG21130,shock,0.11,"43.9253, -69.2618",New York,Delayed,Chicago,Paris,0.11
-2025-05-01 13:40:30.336512,PKG27771,temperature,25.0,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles,25.0
-2025-05-01 13:40:30.336512,PKG27771,humidity,76.4,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles,76.4
-2025-05-01 13:40:30.336512,PKG27771,shock,0.01,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles,0.01
-2025-05-01 14:22:30.336512,PKG15287,temperature,14.8,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris,14.8
-2025-05-01 14:22:30.336512,PKG15287,humidity,71.6,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris,71.6
-2025-05-01 14:22:30.336512,PKG15287,shock,0.17,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris,0.17
-2025-05-01 14:37:30.336512,PKG59407,temperature,29.6,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town,29.6
-2025-05-01 14:37:30.336512,PKG59407,humidity,78.9,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town,78.9
-2025-05-01 14:37:30.336512,PKG59407,shock,1.56,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town,1.56
-2025-05-01 15:37:30.336512,PKG82615,temperature,20.4,"45.1069, -57.3475",New York,Delayed,Paris,Toronto,20.4
-2025-05-01 15:37:30.336512,PKG82615,humidity,70.3,"45.1069, -57.3475",New York,Delayed,Paris,Toronto,70.3
-2025-05-01 15:37:30.336512,PKG82615,shock,0.16,"45.1069, -57.3475",New York,Delayed,Paris,Toronto,0.16
-2025-05-01 15:54:30.336512,PKG77969,temperature,6.7,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris,6.7
-2025-05-01 15:54:30.336512,PKG77969,humidity,72.5,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris,72.5
-2025-05-01 15:54:30.336512,PKG77969,shock,0.07,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris,0.07
-2025-05-01 16:05:30.336512,PKG29065,temperature,26.6,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town,26.6
-2025-05-01 16:05:30.336512,PKG29065,humidity,61.5,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town,61.5
-2025-05-01 16:05:30.336512,PKG29065,shock,0.44,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town,0.44
-2025-05-01 16:51:30.336512,PKG77214,temperature,-9.4,"53.8675, 27.9716",Moscow,In Transit,London,Moscow,9.4
-2025-05-01 16:51:30.336512,PKG77214,humidity,82.0,"53.8675, 27.9716",Moscow,In Transit,London,Moscow,82.0
-2025-05-01 16:51:30.336512,PKG77214,shock,0.4,"53.8675, 27.9716",Moscow,In Transit,London,Moscow,0.4
-2025-05-01 18:40:30.336512,PKG51914,temperature,16.3,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo,16.3
-2025-05-01 18:40:30.336512,PKG51914,humidity,73.2,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo,73.2
-2025-05-01 18:40:30.336512,PKG51914,shock,0.18,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo,0.18
-2025-05-01 20:58:30.336512,PKG48000,temperature,32.9,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila,32.9
-2025-05-01 20:58:30.336512,PKG48000,humidity,90.1,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila,90.1
-2025-05-01 20:58:30.336512,PKG48000,shock,0.19,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila,0.19
-2025-05-01 21:31:30.336512,PKG96925,temperature,23.1,"24.4461, 84.6479",Mumbai,In Transit,Manila,London,23.1
-2025-05-01 21:31:30.336512,PKG96925,humidity,73.6,"24.4461, 84.6479",Mumbai,In Transit,Manila,London,73.6
-2025-05-01 21:31:30.336512,PKG96925,shock,0.09,"24.4461, 84.6479",Mumbai,In Transit,Manila,London,0.09
-2025-05-02 01:32:30.336512,PKG36069,temperature,12.6,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town,12.6
-2025-05-02 01:32:30.336512,PKG36069,humidity,81.2,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town,81.2
-2025-05-02 01:32:30.336512,PKG36069,shock,0.29,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town,0.29
-2025-05-02 02:38:30.336512,PKG62603,temperature,27.0,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila,27.0
-2025-05-02 02:38:30.336512,PKG62603,humidity,81.8,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila,81.8
-2025-05-02 02:38:30.336512,PKG62603,shock,0.39,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila,0.39
-2025-05-02 07:15:30.336512,PKG33710,temperature,25.8,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York,25.8
-2025-05-02 07:15:30.336512,PKG33710,humidity,54.3,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York,54.3
-2025-05-02 07:15:30.336512,PKG33710,shock,0.2,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York,0.2
-2025-05-02 07:55:30.336512,PKG28888,temperature,26.3,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin,26.3
-2025-05-02 07:55:30.336512,PKG28888,humidity,69.1,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin,69.1
-2025-05-02 07:55:30.336512,PKG28888,shock,0.43,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin,0.43
-2025-05-02 09:31:30.336512,PKG13561,temperature,6.6,"51.5043, -7.0312",London,In Transit,Moscow,Chicago,6.6
-2025-05-02 09:31:30.336512,PKG13561,humidity,73.0,"51.5043, -7.0312",London,In Transit,Moscow,Chicago,73.0
-2025-05-02 09:31:30.336512,PKG13561,shock,0.16,"51.5043, -7.0312",London,In Transit,Moscow,Chicago,0.16
-2025-05-02 09:59:30.336512,PKG19474,temperature,27.2,"14.8596, 119.9901",Manila,Processing,Manila,Paris,27.2
-2025-05-02 09:59:30.336512,PKG19474,humidity,79.6,"14.8596, 119.9901",Manila,Processing,Manila,Paris,79.6
-2025-05-02 09:59:30.336512,PKG19474,shock,0.17,"14.8596, 119.9901",Manila,Processing,Manila,Paris,0.17
-2025-05-02 12:11:30.336512,PKG46244,temperature,5.8,"36.9225, -45.4607",New York,In Transit,New York,Bangkok,5.8
-2025-05-02 12:11:30.336512,PKG46244,humidity,78.6,"36.9225, -45.4607",New York,In Transit,New York,Bangkok,78.6
-2025-05-02 12:11:30.336512,PKG46244,shock,0.19,"36.9225, -45.4607",New York,In Transit,New York,Bangkok,0.19
-2025-05-02 14:35:30.336512,PKG37696,temperature,0.6,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town,0.6
-2025-05-02 14:35:30.336512,PKG37696,humidity,78.2,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town,78.2
-2025-05-02 14:35:30.336512,PKG37696,shock,1.19,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town,1.19
-2025-05-02 14:58:30.336512,PKG80080,temperature,32.1,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore,32.1
-2025-05-02 14:58:30.336512,PKG80080,humidity,86.2,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore,86.2
-2025-05-02 14:58:30.336512,PKG80080,shock,0.26,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore,0.26
-2025-05-02 16:28:30.336512,PKG67384,temperature,27.1,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town,27.1
-2025-05-02 16:28:30.336512,PKG67384,humidity,78.1,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town,78.1
-2025-05-02 16:28:30.336512,PKG67384,shock,0.07,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town,0.07
-2025-05-02 17:20:30.336512,PKG30932,temperature,15.4,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles,15.4
-2025-05-02 17:20:30.336512,PKG30932,humidity,75.7,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles,75.7
-2025-05-02 17:20:30.336512,PKG30932,shock,0.44,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles,0.44
-2025-05-02 19:47:30.336512,PKG61214,temperature,7.3,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo,7.3
-2025-05-02 19:47:30.336512,PKG61214,humidity,77.3,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo,77.3
-2025-05-02 19:47:30.336512,PKG61214,shock,0.1,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo,0.1
-2025-05-02 20:23:30.336512,PKG53221,temperature,16.2,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto,16.2
-2025-05-02 20:23:30.336512,PKG53221,humidity,54.9,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto,54.9
-2025-05-02 20:23:30.336512,PKG53221,shock,0.4,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto,0.4
-2025-05-02 21:12:30.336512,PKG86820,temperature,31.0,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto,31.0
-2025-05-02 21:12:30.336512,PKG86820,humidity,88.2,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto,88.2
-2025-05-02 21:12:30.336512,PKG86820,shock,0.01,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto,0.01
-2025-05-02 22:09:30.336512,PKG97897,temperature,27.7,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto,27.7
-2025-05-02 22:09:30.336512,PKG97897,humidity,49.9,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto,49.9
-2025-05-02 22:09:30.336512,PKG97897,shock,0.25,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto,0.25
-2025-05-02 22:21:30.336512,PKG28030,temperature,15.3,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney,15.3
-2025-05-02 22:21:30.336512,PKG28030,humidity,72.4,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney,72.4
-2025-05-02 22:21:30.336512,PKG28030,shock,0.05,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney,0.05
-2025-05-02 23:54:30.336512,PKG77641,temperature,26.2,"38.5479, 123.6234",Seoul,Processing,Seoul,New York,26.2
-2025-05-02 23:54:30.336512,PKG77641,humidity,69.0,"38.5479, 123.6234",Seoul,Processing,Seoul,New York,69.0
-2025-05-02 23:54:30.336512,PKG77641,shock,0.5,"38.5479, 123.6234",Seoul,Processing,Seoul,New York,0.5
-2025-05-03 03:08:30.336512,PKG30159,temperature,22.5,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London,22.5
-2025-05-03 03:08:30.336512,PKG30159,humidity,77.0,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London,77.0
-2025-05-03 03:08:30.336512,PKG30159,shock,0.04,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London,0.04
-2025-05-03 04:06:30.336512,PKG46668,temperature,6.1,"48.8904, 0.5288",Paris,Processing,London,Cape Town,6.1
-2025-05-03 04:06:30.336512,PKG46668,humidity,79.5,"48.8904, 0.5288",Paris,Processing,London,Cape Town,79.5
-2025-05-03 04:06:30.336512,PKG46668,shock,0.17,"48.8904, 0.5288",Paris,Processing,London,Cape Town,0.17
-2025-05-03 04:35:30.336512,PKG96769,temperature,10.5,"33.3004, -21.4233",London,In Transit,Chicago,Dubai,10.5
-2025-05-03 04:35:30.336512,PKG96769,humidity,81.4,"33.3004, -21.4233",London,In Transit,Chicago,Dubai,81.4
-2025-05-03 04:35:30.336512,PKG96769,shock,0.48,"33.3004, -21.4233",London,In Transit,Chicago,Dubai,0.48
-2025-05-03 04:46:30.336512,PKG10854,temperature,24.3,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo,24.3
-2025-05-03 04:46:30.336512,PKG10854,humidity,78.2,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo,78.2
-2025-05-03 04:46:30.336512,PKG10854,shock,1.34,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo,1.34
-2025-05-03 04:47:30.336512,PKG11802,temperature,25.3,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town,25.3
-2025-05-03 04:47:30.336512,PKG11802,humidity,96.0,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town,96.0
-2025-05-03 04:47:30.336512,PKG11802,shock,0.28,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town,0.28
-2025-05-03 07:48:30.336512,PKG50818,temperature,32.2,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul,32.2
-2025-05-03 07:48:30.336512,PKG50818,humidity,73.2,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul,73.2
-2025-05-03 07:48:30.336512,PKG50818,shock,0.22,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul,0.22
-2025-05-03 08:13:30.336512,PKG69494,temperature,21.8,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City,21.8
-2025-05-03 08:13:30.336512,PKG69494,humidity,61.9,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City,61.9
-2025-05-03 08:13:30.336512,PKG69494,shock,0.22,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City,0.22
-2025-05-03 11:51:30.336512,PKG11324,temperature,20.2,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney,20.2
-2025-05-03 11:51:30.336512,PKG11324,humidity,76.8,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney,76.8
-2025-05-03 11:51:30.336512,PKG11324,shock,0.06,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney,0.06
-2025-05-03 15:16:30.336512,PKG11341,temperature,34.5,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok,34.5
-2025-05-03 15:16:30.336512,PKG11341,humidity,90.1,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok,90.1
-2025-05-03 15:16:30.336512,PKG11341,shock,0.45,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok,0.45
-2025-05-03 15:53:30.336512,PKG39375,temperature,24.6,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul,24.6
-2025-05-03 15:53:30.336512,PKG39375,humidity,45.5,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul,45.5
-2025-05-03 15:53:30.336512,PKG39375,shock,0.06,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul,0.06
-2025-05-03 17:10:30.336512,PKG37935,temperature,22.0,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto,22.0
-2025-05-03 17:10:30.336512,PKG37935,humidity,56.5,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto,56.5
-2025-05-03 17:10:30.336512,PKG37935,shock,1.39,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto,1.39
-2025-05-03 18:30:30.336512,PKG92986,temperature,-2.2,"37.8225, -54.3665",New York,In Transit,New York,Cairo,2.2
-2025-05-03 18:30:30.336512,PKG92986,humidity,82.7,"37.8225, -54.3665",New York,In Transit,New York,Cairo,82.7
-2025-05-03 18:30:30.336512,PKG92986,shock,0.04,"37.8225, -54.3665",New York,In Transit,New York,Cairo,0.04
-2025-05-03 19:07:30.336512,PKG10126,temperature,32.4,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo,32.4
-2025-05-03 19:07:30.336512,PKG10126,humidity,91.3,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo,91.3
-2025-05-03 19:07:30.336512,PKG10126,shock,0.46,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo,0.46
-2025-05-03 20:11:30.336512,PKG38024,temperature,-9.4,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo,9.4
-2025-05-03 20:11:30.336512,PKG38024,humidity,67.1,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo,67.1
-2025-05-03 20:11:30.336512,PKG38024,shock,0.14,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo,0.14
-2025-05-03 21:00:30.336512,PKG64384,temperature,32.0,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo,32.0
-2025-05-03 21:00:30.336512,PKG64384,humidity,87.2,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo,87.2
-2025-05-03 21:00:30.336512,PKG64384,shock,0.07,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo,0.07
-2025-05-03 22:16:30.336512,PKG14018,temperature,17.3,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok,17.3
-2025-05-03 22:16:30.336512,PKG14018,humidity,75.6,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok,75.6
-2025-05-03 22:16:30.336512,PKG14018,shock,0.44,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok,0.44
-2025-05-03 23:16:30.336512,PKG35939,temperature,4.5,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris,4.5
-2025-05-03 23:16:30.336512,PKG35939,humidity,69.0,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris,69.0
-2025-05-03 23:16:30.336512,PKG35939,shock,0.11,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris,0.11
-2025-05-04 01:16:30.336512,PKG49224,temperature,22.9,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin,22.9
-2025-05-04 01:16:30.336512,PKG49224,humidity,53.0,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin,53.0
-2025-05-04 01:16:30.336512,PKG49224,shock,0.17,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin,0.17
-2025-05-04 02:23:30.336512,PKG30150,temperature,9.9,"48.7189, 2.5373",Paris,In Transit,London,Paris,9.9
-2025-05-04 02:23:30.336512,PKG30150,humidity,80.8,"48.7189, 2.5373",Paris,In Transit,London,Paris,80.8
-2025-05-04 02:23:30.336512,PKG30150,shock,0.45,"48.7189, 2.5373",Paris,In Transit,London,Paris,0.45
-2025-05-04 04:43:30.336512,PKG82258,temperature,22.5,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto,22.5
-2025-05-04 04:43:30.336512,PKG82258,humidity,77.0,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto,77.0
-2025-05-04 04:43:30.336512,PKG82258,shock,0.48,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto,0.48
-2025-05-04 07:11:30.336512,PKG77121,temperature,18.7,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok,18.7
-2025-05-04 07:11:30.336512,PKG77121,humidity,67.5,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok,67.5
-2025-05-04 07:11:30.336512,PKG77121,shock,0.39,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok,0.39
-2025-05-04 11:54:30.336512,PKG71135,temperature,14.4,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town,14.4
-2025-05-04 11:54:30.336512,PKG71135,humidity,82.0,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town,82.0
-2025-05-04 11:54:30.336512,PKG71135,shock,0.36,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town,0.36
-2025-05-04 11:57:30.336512,PKG31172,temperature,8.1,"45.1754, -39.7402",New York,In Transit,Berlin,New York,8.1
-2025-05-04 11:57:30.336512,PKG31172,humidity,71.6,"45.1754, -39.7402",New York,In Transit,Berlin,New York,71.6
-2025-05-04 11:57:30.336512,PKG31172,shock,0.28,"45.1754, -39.7402",New York,In Transit,Berlin,New York,0.28
-2025-05-04 12:14:30.336512,PKG50158,temperature,30.5,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London,30.5
-2025-05-04 12:14:30.336512,PKG50158,humidity,83.4,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London,83.4
-2025-05-04 12:14:30.336512,PKG50158,shock,0.47,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London,0.47
-2025-05-04 14:12:30.336512,PKG73335,temperature,19.4,"48.6303, -23.2247",London,In Transit,London,Chicago,19.4
-2025-05-04 14:12:30.336512,PKG73335,humidity,70.0,"48.6303, -23.2247",London,In Transit,London,Chicago,70.0
-2025-05-04 14:12:30.336512,PKG73335,shock,0.13,"48.6303, -23.2247",London,In Transit,London,Chicago,0.13
-2025-05-04 14:32:30.336512,PKG14853,temperature,22.1,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto,22.1
-2025-05-04 14:32:30.336512,PKG14853,humidity,70.8,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto,70.8
-2025-05-04 14:32:30.336512,PKG14853,shock,0.42,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto,0.42
-2025-05-04 15:16:30.336512,PKG67132,temperature,39.2,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago,39.2
-2025-05-04 15:16:30.336512,PKG67132,humidity,58.6,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago,58.6
-2025-05-04 15:16:30.336512,PKG67132,shock,0.27,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago,0.27
-2025-05-04 16:24:30.336512,PKG70774,temperature,42.5,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo,42.5
-2025-05-04 16:24:30.336512,PKG70774,humidity,64.8,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo,64.8
-2025-05-04 16:24:30.336512,PKG70774,shock,0.34,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo,0.34
-2025-05-04 19:00:30.336512,PKG85993,temperature,32.4,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin,32.4
-2025-05-04 19:00:30.336512,PKG85993,humidity,59.9,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin,59.9
-2025-05-04 19:00:30.336512,PKG85993,shock,0.28,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin,0.28
-2025-05-05 00:02:30.336512,PKG88781,temperature,7.9,"45.1749, -55.9117",New York,In Transit,London,Toronto,7.9
-2025-05-05 00:02:30.336512,PKG88781,humidity,74.4,"45.1749, -55.9117",New York,In Transit,London,Toronto,74.4
-2025-05-05 00:02:30.336512,PKG88781,shock,0.2,"45.1749, -55.9117",New York,In Transit,London,Toronto,0.2
-2025-05-05 01:35:30.336512,PKG88477,temperature,32.2,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City,32.2
-2025-05-05 01:35:30.336512,PKG88477,humidity,61.9,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City,61.9
-2025-05-05 01:35:30.336512,PKG88477,shock,0.07,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City,0.07
-2025-05-05 03:32:30.336512,PKG84740,temperature,4.8,"50.4532, 4.0034",Paris,Processing,London,Mumbai,4.8
-2025-05-05 03:32:30.336512,PKG84740,humidity,80.8,"50.4532, 4.0034",Paris,Processing,London,Mumbai,80.8
-2025-05-05 03:32:30.336512,PKG84740,shock,0.47,"50.4532, 4.0034",Paris,Processing,London,Mumbai,0.47
-2025-05-05 08:15:30.336512,PKG42711,temperature,24.1,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City,24.1
-2025-05-05 08:15:30.336512,PKG42711,humidity,69.8,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City,69.8
-2025-05-05 08:15:30.336512,PKG42711,shock,0.14,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City,0.14
-2025-05-05 12:14:30.336512,PKG55017,temperature,8.5,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin,8.5
-2025-05-05 12:14:30.336512,PKG55017,humidity,87.0,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin,87.0
-2025-05-05 12:14:30.336512,PKG55017,shock,0.43,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin,0.43
-2025-05-05 13:10:30.336512,PKG20975,temperature,6.4,"43.9523, -74.7973",New York,Processing,Toronto,Berlin,6.4
-2025-05-05 13:10:30.336512,PKG20975,humidity,79.1,"43.9523, -74.7973",New York,Processing,Toronto,Berlin,79.1
-2025-05-05 13:10:30.336512,PKG20975,shock,0.19,"43.9523, -74.7973",New York,Processing,Toronto,Berlin,0.19
-2025-05-05 14:27:30.336512,PKG97731,temperature,27.4,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago,27.4
-2025-05-05 14:27:30.336512,PKG97731,humidity,88.8,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago,88.8
-2025-05-05 14:27:30.336512,PKG97731,shock,0.02,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago,0.02
-2025-05-05 14:51:30.336512,PKG96123,temperature,19.2,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town,19.2
-2025-05-05 14:51:30.336512,PKG96123,humidity,79.3,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town,79.3
-2025-05-05 14:51:30.336512,PKG96123,shock,0.48,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town,0.48
-2025-05-05 17:46:30.336512,PKG83963,temperature,-9.0,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York,9.0
-2025-05-05 17:46:30.336512,PKG83963,humidity,79.8,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York,79.8
-2025-05-05 17:46:30.336512,PKG83963,shock,0.31,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York,0.31
-2025-05-05 18:01:30.336512,PKG60448,temperature,14.8,"50.9631, 3.5141",Paris,In Transit,London,Berlin,14.8
-2025-05-05 18:01:30.336512,PKG60448,humidity,84.3,"50.9631, 3.5141",Paris,In Transit,London,Berlin,84.3
-2025-05-05 18:01:30.336512,PKG60448,shock,0.39,"50.9631, 3.5141",Paris,In Transit,London,Berlin,0.39
-2025-05-05 18:03:30.336512,PKG28711,temperature,21.9,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago,21.9
-2025-05-05 18:03:30.336512,PKG28711,humidity,65.4,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago,65.4
-2025-05-05 18:03:30.336512,PKG28711,shock,0.1,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago,0.1
-2025-05-05 19:08:30.336512,PKG42606,temperature,8.1,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin,8.1
-2025-05-05 19:08:30.336512,PKG42606,humidity,82.6,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin,82.6
-2025-05-05 19:08:30.336512,PKG42606,shock,0.14,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin,0.14
-2025-05-05 20:21:30.336512,PKG61356,temperature,-4.0,"42.4882, -56.5906",New York,In Transit,New York,Moscow,4.0
-2025-05-05 20:21:30.336512,PKG61356,humidity,81.1,"42.4882, -56.5906",New York,In Transit,New York,Moscow,81.1
-2025-05-05 20:21:30.336512,PKG61356,shock,0.38,"42.4882, -56.5906",New York,In Transit,New York,Moscow,0.38
-2025-05-05 21:37:30.336512,PKG20954,temperature,19.9,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles,19.9
-2025-05-05 21:37:30.336512,PKG20954,humidity,83.1,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles,83.1
-2025-05-05 21:37:30.336512,PKG20954,shock,0.25,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles,0.25
-2025-05-06 03:42:30.336512,PKG57304,temperature,7.5,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin,7.5
-2025-05-06 03:42:30.336512,PKG57304,humidity,74.5,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin,74.5
-2025-05-06 03:42:30.336512,PKG57304,shock,0.12,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin,0.12
-2025-05-06 05:08:30.336512,PKG73932,temperature,32.4,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore,32.4
-2025-05-06 05:08:30.336512,PKG73932,humidity,85.2,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore,85.2
-2025-05-06 05:08:30.336512,PKG73932,shock,0.22,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore,0.22
-2025-05-06 07:48:30.336512,PKG52929,temperature,1.3,"39.7644, 112.0573",Seoul,Processing,Seoul,London,1.3
-2025-05-06 07:48:30.336512,PKG52929,humidity,69.2,"39.7644, 112.0573",Seoul,Processing,Seoul,London,69.2
-2025-05-06 07:48:30.336512,PKG52929,shock,0.37,"39.7644, 112.0573",Seoul,Processing,Seoul,London,0.37
-2025-05-06 08:34:30.336512,PKG94654,temperature,32.2,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok,32.2
-2025-05-06 08:34:30.336512,PKG94654,humidity,55.0,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok,55.0
-2025-05-06 08:34:30.336512,PKG94654,shock,0.23,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok,0.23
-2025-05-06 10:09:30.336512,PKG49666,temperature,25.5,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles,25.5
-2025-05-06 10:09:30.336512,PKG49666,humidity,64.5,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles,64.5
-2025-05-06 10:09:30.336512,PKG49666,shock,0.21,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles,0.21
+record_id,timestamp,device_id,data_type,data_value,numeric_value,location,closest_city,status,origin,destination
+2,2025-04-29 12:08:30.336512,PKG85046,humidity,51.6,51.6,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow
+3,2025-04-29 12:08:30.336512,PKG85046,shock,0.2,0.2,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow
+1,2025-04-29 12:08:30.336512,PKG85046,temperature,26.0,26.0,"33.3012, 13.5857",Cairo,In Transit,São Paulo,Moscow
+5,2025-04-29 13:17:30.336512,PKG59811,humidity,84.9,84.9,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul
+6,2025-04-29 13:17:30.336512,PKG59811,shock,0.2,0.2,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul
+4,2025-04-29 13:17:30.336512,PKG59811,temperature,11.7,11.7,"36.7251, 136.1661",Tokyo,In Transit,Tokyo,Seoul
+8,2025-04-29 14:36:30.336512,PKG80313,humidity,83.4,83.4,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul
+9,2025-04-29 14:36:30.336512,PKG80313,shock,0.04,0.04,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul
+7,2025-04-29 14:36:30.336512,PKG80313,temperature,34.1,34.1,"24.1418, 107.766",Bangkok,In Transit,Cape Town,Seoul
+11,2025-04-29 15:23:30.336512,PKG90642,humidity,49.2,49.2,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo
+12,2025-04-29 15:23:30.336512,PKG90642,shock,0.48,0.48,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo
+10,2025-04-29 15:23:30.336512,PKG90642,temperature,21.8,21.8,"3.6758, 36.9013",Cairo,In Transit,Tokyo,São Paulo
+14,2025-04-29 16:06:30.336512,PKG86797,humidity,81.2,81.2,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin
+15,2025-04-29 16:06:30.336512,PKG86797,shock,0.37,0.37,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin
+13,2025-04-29 16:06:30.336512,PKG86797,temperature,13.9,13.9,"52.3556, 18.2952",Berlin,In Transit,Moscow,Berlin
+17,2025-04-29 22:21:30.336512,PKG40354,humidity,88.1,88.1,"3.1486, 101.0205",Singapore,Delivered,London,Singapore
+18,2025-04-29 22:21:30.336512,PKG40354,shock,0.29,0.29,"3.1486, 101.0205",Singapore,Delivered,London,Singapore
+16,2025-04-29 22:21:30.336512,PKG40354,temperature,29.5,29.5,"3.1486, 101.0205",Singapore,Delivered,London,Singapore
+20,2025-04-30 03:12:30.336512,PKG15600,humidity,82.8,82.8,"40.8456, -76.0098",New York,In Transit,New York,Toronto
+21,2025-04-30 03:12:30.336512,PKG15600,shock,0.48,0.48,"40.8456, -76.0098",New York,In Transit,New York,Toronto
+19,2025-04-30 03:12:30.336512,PKG15600,temperature,13.0,13.0,"40.8456, -76.0098",New York,In Transit,New York,Toronto
+23,2025-04-30 04:16:30.336512,PKG98223,humidity,90.9,90.9,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo
+24,2025-04-30 04:16:30.336512,PKG98223,shock,0.19,0.19,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo
+22,2025-04-30 04:16:30.336512,PKG98223,temperature,19.8,19.8,"-20.3309, -50.6235",São Paulo,Delivered,Los Angeles,São Paulo
+26,2025-04-30 04:39:30.336512,PKG68596,humidity,71.2,71.2,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City
+27,2025-04-30 04:39:30.336512,PKG68596,shock,0.44,0.44,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City
+25,2025-04-30 04:39:30.336512,PKG68596,temperature,13.0,13.0,"47.7554, 10.6766",Berlin,In Transit,Moscow,Mexico City
+29,2025-04-30 06:25:30.336512,PKG47157,humidity,91.6,91.6,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo
+30,2025-04-30 06:25:30.336512,PKG47157,shock,0.16,0.16,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo
+28,2025-04-30 06:25:30.336512,PKG47157,temperature,2.3,2.3,"24.8098, -8.6001",Paris,In Transit,Berlin,São Paulo
+32,2025-04-30 09:02:30.336512,PKG56828,humidity,66.5,66.5,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo
+33,2025-04-30 09:02:30.336512,PKG56828,shock,0.02,0.02,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo
+31,2025-04-30 09:02:30.336512,PKG56828,temperature,29.6,29.6,"32.7614, 67.4043",Dubai,In Transit,Tokyo,Cairo
+35,2025-04-30 09:11:30.336512,PKG83969,humidity,75.4,75.4,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore
+36,2025-04-30 09:11:30.336512,PKG83969,shock,0.42,0.42,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore
+34,2025-04-30 09:11:30.336512,PKG83969,temperature,20.2,20.2,"-14.4913, 10.838",Cape Town,In Transit,São Paulo,Singapore
+38,2025-04-30 10:38:30.336512,PKG52880,humidity,75.5,75.5,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town
+39,2025-04-30 10:38:30.336512,PKG52880,shock,0.2,0.2,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town
+37,2025-04-30 10:38:30.336512,PKG52880,temperature,20.4,20.4,"-27.9624, 33.7697",Cape Town,In Transit,Singapore,Cape Town
+41,2025-04-30 10:59:30.336512,PKG89273,humidity,76.7,76.7,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town
+42,2025-04-30 10:59:30.336512,PKG89273,shock,0.47,0.47,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town
+40,2025-04-30 10:59:30.336512,PKG89273,temperature,11.4,11.4,"-23.7877, 17.4187",Cape Town,In Transit,Paris,Cape Town
+44,2025-04-30 15:09:30.336512,PKG14324,humidity,60.8,60.8,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago
+45,2025-04-30 15:09:30.336512,PKG14324,shock,0.09,0.09,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago
+43,2025-04-30 15:09:30.336512,PKG14324,temperature,22.9,22.9,"41.4671, -84.5964",Chicago,Delivered,Cairo,Chicago
+47,2025-04-30 17:04:30.336512,PKG36641,humidity,61.4,61.4,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore
+48,2025-04-30 17:04:30.336512,PKG36641,shock,1.98,1.98,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore
+46,2025-04-30 17:04:30.336512,PKG36641,temperature,16.9,16.9,"19.1864, 25.1461",Cairo,Delayed,New York,Singapore
+50,2025-04-30 21:25:30.336512,PKG43719,humidity,86.6,86.6,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila
+51,2025-04-30 21:25:30.336512,PKG43719,shock,0.03,0.03,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila
+49,2025-04-30 21:25:30.336512,PKG43719,temperature,29.7,29.7,"17.473, 107.9593",Bangkok,In Transit,Paris,Manila
+53,2025-04-30 22:13:30.336512,PKG16801,humidity,54.4,54.4,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City
+54,2025-04-30 22:13:30.336512,PKG16801,shock,0.11,0.11,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City
+52,2025-04-30 22:13:30.336512,PKG16801,temperature,22.6,22.6,"20.8077, -98.0358",Mexico City,Delivered,Chicago,Mexico City
+56,2025-04-30 22:16:30.336512,PKG93441,humidity,83.5,83.5,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila
+57,2025-04-30 22:16:30.336512,PKG93441,shock,0.32,0.32,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila
+55,2025-04-30 22:16:30.336512,PKG93441,temperature,26.8,26.8,"24.0181, 68.1987",Mumbai,In Transit,Cairo,Manila
+59,2025-04-30 22:31:30.336512,PKG80316,humidity,41.7,41.7,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney
+60,2025-04-30 22:31:30.336512,PKG80316,shock,0.29,0.29,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney
+58,2025-04-30 22:31:30.336512,PKG80316,temperature,32.7,32.7,"32.5732, 30.3712",Cairo,In Transit,Paris,Sydney
+62,2025-04-30 23:22:30.336512,PKG24388,humidity,73.8,73.8,"45.6035, -41.4799",New York,In Transit,London,Los Angeles
+63,2025-04-30 23:22:30.336512,PKG24388,shock,0.29,0.29,"45.6035, -41.4799",New York,In Transit,London,Los Angeles
+61,2025-04-30 23:22:30.336512,PKG24388,temperature,11.1,11.1,"45.6035, -41.4799",New York,In Transit,London,Los Angeles
+65,2025-05-01 03:36:30.336512,PKG68243,humidity,62.5,62.5,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul
+66,2025-05-01 03:36:30.336512,PKG68243,shock,0.02,0.02,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul
+64,2025-05-01 03:36:30.336512,PKG68243,temperature,7.1,7.1,"50.5945, 34.014",Moscow,In Transit,Berlin,Seoul
+68,2025-05-01 04:15:30.336512,PKG52318,humidity,87.1,87.1,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney
+69,2025-05-01 04:15:30.336512,PKG52318,shock,0.13,0.13,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney
+67,2025-05-01 04:15:30.336512,PKG52318,temperature,0.8,0.8,"7.8415, -10.4925",Paris,In Transit,Los Angeles,Sydney
+71,2025-05-01 07:34:30.336512,PKG14158,humidity,72.3,72.3,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok
+72,2025-05-01 07:34:30.336512,PKG14158,shock,0.01,0.01,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok
+70,2025-05-01 07:34:30.336512,PKG14158,temperature,10.6,10.6,"-8.7533, 10.3176",Cape Town,In Transit,São Paulo,Bangkok
+74,2025-05-01 11:51:30.336512,PKG21130,humidity,79.9,79.9,"43.9253, -69.2618",New York,Delayed,Chicago,Paris
+75,2025-05-01 11:51:30.336512,PKG21130,shock,0.11,0.11,"43.9253, -69.2618",New York,Delayed,Chicago,Paris
+73,2025-05-01 11:51:30.336512,PKG21130,temperature,25.8,25.8,"43.9253, -69.2618",New York,Delayed,Chicago,Paris
+77,2025-05-01 13:40:30.336512,PKG27771,humidity,76.4,76.4,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles
+78,2025-05-01 13:40:30.336512,PKG27771,shock,0.01,0.01,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles
+76,2025-05-01 13:40:30.336512,PKG27771,temperature,25.0,25.0,"31.3388, 10.2707",Paris,Processing,Cairo,Los Angeles
+80,2025-05-01 14:22:30.336512,PKG15287,humidity,71.6,71.6,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris
+81,2025-05-01 14:22:30.336512,PKG15287,shock,0.17,0.17,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris
+79,2025-05-01 14:22:30.336512,PKG15287,temperature,14.8,14.8,"43.553, 16.28",Berlin,In Transit,Mumbai,Paris
+83,2025-05-01 14:37:30.336512,PKG59407,humidity,78.9,78.9,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town
+84,2025-05-01 14:37:30.336512,PKG59407,shock,1.56,1.56,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town
+82,2025-05-01 14:37:30.336512,PKG59407,temperature,29.6,29.6,"-5.5992, 69.9657",Mumbai,Delayed,Tokyo,Cape Town
+86,2025-05-01 15:37:30.336512,PKG82615,humidity,70.3,70.3,"45.1069, -57.3475",New York,Delayed,Paris,Toronto
+87,2025-05-01 15:37:30.336512,PKG82615,shock,0.16,0.16,"45.1069, -57.3475",New York,Delayed,Paris,Toronto
+85,2025-05-01 15:37:30.336512,PKG82615,temperature,20.4,20.4,"45.1069, -57.3475",New York,Delayed,Paris,Toronto
+89,2025-05-01 15:54:30.336512,PKG77969,humidity,72.5,72.5,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris
+90,2025-05-01 15:54:30.336512,PKG77969,shock,0.07,0.07,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris
+88,2025-05-01 15:54:30.336512,PKG77969,temperature,6.7,6.7,"36.3495, -96.2642",Chicago,In Transit,Los Angeles,Paris
+92,2025-05-01 16:05:30.336512,PKG29065,humidity,61.5,61.5,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town
+93,2025-05-01 16:05:30.336512,PKG29065,shock,0.44,0.44,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town
+91,2025-05-01 16:05:30.336512,PKG29065,temperature,26.6,26.6,"20.6898, 28.827",Cairo,Processing,Cairo,Cape Town
+95,2025-05-01 16:51:30.336512,PKG77214,humidity,82.0,82.0,"53.8675, 27.9716",Moscow,In Transit,London,Moscow
+96,2025-05-01 16:51:30.336512,PKG77214,shock,0.4,0.4,"53.8675, 27.9716",Moscow,In Transit,London,Moscow
+94,2025-05-01 16:51:30.336512,PKG77214,temperature,-9.4,9.4,"53.8675, 27.9716",Moscow,In Transit,London,Moscow
+98,2025-05-01 18:40:30.336512,PKG51914,humidity,73.2,73.2,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo
+99,2025-05-01 18:40:30.336512,PKG51914,shock,0.18,0.18,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo
+97,2025-05-01 18:40:30.336512,PKG51914,temperature,16.3,16.3,"7.3423, -85.8441",Mexico City,In Transit,Los Angeles,São Paulo
+101,2025-05-01 20:58:30.336512,PKG48000,humidity,90.1,90.1,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila
+102,2025-05-01 20:58:30.336512,PKG48000,shock,0.19,0.19,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila
+100,2025-05-01 20:58:30.336512,PKG48000,temperature,32.9,32.9,"20.2624, 80.968",Mumbai,In Transit,Dubai,Manila
+104,2025-05-01 21:31:30.336512,PKG96925,humidity,73.6,73.6,"24.4461, 84.6479",Mumbai,In Transit,Manila,London
+105,2025-05-01 21:31:30.336512,PKG96925,shock,0.09,0.09,"24.4461, 84.6479",Mumbai,In Transit,Manila,London
+103,2025-05-01 21:31:30.336512,PKG96925,temperature,23.1,23.1,"24.4461, 84.6479",Mumbai,In Transit,Manila,London
+107,2025-05-02 01:32:30.336512,PKG36069,humidity,81.2,81.2,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town
+108,2025-05-02 01:32:30.336512,PKG36069,shock,0.29,0.29,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town
+106,2025-05-02 01:32:30.336512,PKG36069,temperature,12.6,12.6,"0.1405, 11.0357",Cape Town,In Transit,Paris,Cape Town
+110,2025-05-02 02:38:30.336512,PKG62603,humidity,81.8,81.8,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila
+111,2025-05-02 02:38:30.336512,PKG62603,shock,0.39,0.39,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila
+109,2025-05-02 02:38:30.336512,PKG62603,temperature,27.0,27.0,"16.1722, 112.1301",Manila,Delayed,Mumbai,Manila
+113,2025-05-02 07:15:30.336512,PKG33710,humidity,54.3,54.3,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York
+114,2025-05-02 07:15:30.336512,PKG33710,shock,0.2,0.2,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York
+112,2025-05-02 07:15:30.336512,PKG33710,temperature,25.8,25.8,"27.4818, 17.2395",Cairo,In Transit,Mumbai,New York
+116,2025-05-02 07:55:30.336512,PKG28888,humidity,69.1,69.1,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin
+117,2025-05-02 07:55:30.336512,PKG28888,shock,0.43,0.43,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin
+115,2025-05-02 07:55:30.336512,PKG28888,temperature,26.3,26.3,"30.9045, 51.6755",Dubai,In Transit,Singapore,Berlin
+119,2025-05-02 09:31:30.336512,PKG13561,humidity,73.0,73.0,"51.5043, -7.0312",London,In Transit,Moscow,Chicago
+120,2025-05-02 09:31:30.336512,PKG13561,shock,0.16,0.16,"51.5043, -7.0312",London,In Transit,Moscow,Chicago
+118,2025-05-02 09:31:30.336512,PKG13561,temperature,6.6,6.6,"51.5043, -7.0312",London,In Transit,Moscow,Chicago
+122,2025-05-02 09:59:30.336512,PKG19474,humidity,79.6,79.6,"14.8596, 119.9901",Manila,Processing,Manila,Paris
+123,2025-05-02 09:59:30.336512,PKG19474,shock,0.17,0.17,"14.8596, 119.9901",Manila,Processing,Manila,Paris
+121,2025-05-02 09:59:30.336512,PKG19474,temperature,27.2,27.2,"14.8596, 119.9901",Manila,Processing,Manila,Paris
+125,2025-05-02 12:11:30.336512,PKG46244,humidity,78.6,78.6,"36.9225, -45.4607",New York,In Transit,New York,Bangkok
+126,2025-05-02 12:11:30.336512,PKG46244,shock,0.19,0.19,"36.9225, -45.4607",New York,In Transit,New York,Bangkok
+124,2025-05-02 12:11:30.336512,PKG46244,temperature,5.8,5.8,"36.9225, -45.4607",New York,In Transit,New York,Bangkok
+128,2025-05-02 14:35:30.336512,PKG37696,humidity,78.2,78.2,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town
+129,2025-05-02 14:35:30.336512,PKG37696,shock,1.19,1.19,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town
+127,2025-05-02 14:35:30.336512,PKG37696,temperature,0.6,0.6,"36.4279, 14.1312",Berlin,Delayed,Berlin,Cape Town
+131,2025-05-02 14:58:30.336512,PKG80080,humidity,86.2,86.2,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore
+132,2025-05-02 14:58:30.336512,PKG80080,shock,0.26,0.26,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore
+130,2025-05-02 14:58:30.336512,PKG80080,temperature,32.1,32.1,"16.6605, 69.7346",Mumbai,In Transit,Paris,Singapore
+134,2025-05-02 16:28:30.336512,PKG67384,humidity,78.1,78.1,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town
+135,2025-05-02 16:28:30.336512,PKG67384,shock,0.07,0.07,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town
+133,2025-05-02 16:28:30.336512,PKG67384,temperature,27.1,27.1,"16.9159, 107.1148",Bangkok,In Transit,Tokyo,Cape Town
+137,2025-05-02 17:20:30.336512,PKG30932,humidity,75.7,75.7,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles
+138,2025-05-02 17:20:30.336512,PKG30932,shock,0.44,0.44,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles
+136,2025-05-02 17:20:30.336512,PKG30932,temperature,15.4,15.4,"34.0786, -94.1221",Chicago,Delivered,Seoul,Los Angeles
+140,2025-05-02 19:47:30.336512,PKG61214,humidity,77.3,77.3,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo
+141,2025-05-02 19:47:30.336512,PKG61214,shock,0.1,0.1,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo
+139,2025-05-02 19:47:30.336512,PKG61214,temperature,7.3,7.3,"45.5881, 6.9143",Paris,In Transit,Paris,Cairo
+143,2025-05-02 20:23:30.336512,PKG53221,humidity,54.9,54.9,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto
+144,2025-05-02 20:23:30.336512,PKG53221,shock,0.4,0.4,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto
+142,2025-05-02 20:23:30.336512,PKG53221,temperature,16.2,16.2,"31.8999, 23.0376",Cairo,Processing,Cairo,Toronto
+146,2025-05-02 21:12:30.336512,PKG86820,humidity,88.2,88.2,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto
+147,2025-05-02 21:12:30.336512,PKG86820,shock,0.01,0.01,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto
+145,2025-05-02 21:12:30.336512,PKG86820,temperature,31.0,31.0,"-22.6593, 115.966",Singapore,In Transit,Sydney,Toronto
+149,2025-05-02 22:09:30.336512,PKG97897,humidity,49.9,49.9,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto
+150,2025-05-02 22:09:30.336512,PKG97897,shock,0.25,0.25,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto
+148,2025-05-02 22:09:30.336512,PKG97897,temperature,27.7,27.7,"29.6017, 27.491",Cairo,Processing,Cairo,Toronto
+152,2025-05-02 22:21:30.336512,PKG28030,humidity,72.4,72.4,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney
+153,2025-05-02 22:21:30.336512,PKG28030,shock,0.05,0.05,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney
+151,2025-05-02 22:21:30.336512,PKG28030,temperature,15.3,15.3,"-34.8168, 131.2877",Sydney,In Transit,Cape Town,Sydney
+155,2025-05-02 23:54:30.336512,PKG77641,humidity,69.0,69.0,"38.5479, 123.6234",Seoul,Processing,Seoul,New York
+156,2025-05-02 23:54:30.336512,PKG77641,shock,0.5,0.5,"38.5479, 123.6234",Seoul,Processing,Seoul,New York
+154,2025-05-02 23:54:30.336512,PKG77641,temperature,26.2,26.2,"38.5479, 123.6234",Seoul,Processing,Seoul,New York
+158,2025-05-03 03:08:30.336512,PKG30159,humidity,77.0,77.0,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London
+159,2025-05-03 03:08:30.336512,PKG30159,shock,0.04,0.04,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London
+157,2025-05-03 03:08:30.336512,PKG30159,temperature,22.5,22.5,"10.0298, -25.7319",São Paulo,In Transit,São Paulo,London
+161,2025-05-03 04:06:30.336512,PKG46668,humidity,79.5,79.5,"48.8904, 0.5288",Paris,Processing,London,Cape Town
+162,2025-05-03 04:06:30.336512,PKG46668,shock,0.17,0.17,"48.8904, 0.5288",Paris,Processing,London,Cape Town
+160,2025-05-03 04:06:30.336512,PKG46668,temperature,6.1,6.1,"48.8904, 0.5288",Paris,Processing,London,Cape Town
+164,2025-05-03 04:35:30.336512,PKG96769,humidity,81.4,81.4,"33.3004, -21.4233",London,In Transit,Chicago,Dubai
+165,2025-05-03 04:35:30.336512,PKG96769,shock,0.48,0.48,"33.3004, -21.4233",London,In Transit,Chicago,Dubai
+163,2025-05-03 04:35:30.336512,PKG96769,temperature,10.5,10.5,"33.3004, -21.4233",London,In Transit,Chicago,Dubai
+167,2025-05-03 04:46:30.336512,PKG10854,humidity,78.2,78.2,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo
+168,2025-05-03 04:46:30.336512,PKG10854,shock,1.34,1.34,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo
+166,2025-05-03 04:46:30.336512,PKG10854,temperature,24.3,24.3,"20.0183, 77.894",Mumbai,Delayed,Seoul,São Paulo
+170,2025-05-03 04:47:30.336512,PKG11802,humidity,96.0,96.0,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town
+171,2025-05-03 04:47:30.336512,PKG11802,shock,0.28,0.28,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town
+169,2025-05-03 04:47:30.336512,PKG11802,temperature,25.3,25.3,"-33.0377, 106.6745",Singapore,In Transit,Sydney,Cape Town
+173,2025-05-03 07:48:30.336512,PKG50818,humidity,73.2,73.2,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul
+174,2025-05-03 07:48:30.336512,PKG50818,shock,0.22,0.22,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul
+172,2025-05-03 07:48:30.336512,PKG50818,temperature,32.2,32.2,"38.8917, 54.8443",Dubai,In Transit,New York,Seoul
+176,2025-05-03 08:13:30.336512,PKG69494,humidity,61.9,61.9,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City
+177,2025-05-03 08:13:30.336512,PKG69494,shock,0.22,0.22,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City
+175,2025-05-03 08:13:30.336512,PKG69494,temperature,21.8,21.8,"31.0853, -115.9328",Los Angeles,Processing,Los Angeles,Mexico City
+179,2025-05-03 11:51:30.336512,PKG11324,humidity,76.8,76.8,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney
+180,2025-05-03 11:51:30.336512,PKG11324,shock,0.06,0.06,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney
+178,2025-05-03 11:51:30.336512,PKG11324,temperature,20.2,20.2,"-17.0843, 145.7886",Sydney,In Transit,Seoul,Sydney
+182,2025-05-03 15:16:30.336512,PKG11341,humidity,90.1,90.1,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok
+183,2025-05-03 15:16:30.336512,PKG11341,shock,0.45,0.45,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok
+181,2025-05-03 15:16:30.336512,PKG11341,temperature,34.5,34.5,"15.0243, 102.1257",Bangkok,Delivered,Seoul,Bangkok
+185,2025-05-03 15:53:30.336512,PKG39375,humidity,45.5,45.5,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul
+186,2025-05-03 15:53:30.336512,PKG39375,shock,0.06,0.06,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul
+184,2025-05-03 15:53:30.336512,PKG39375,temperature,24.6,24.6,"38.8085, 36.9051",Cairo,In Transit,New York,Seoul
+188,2025-05-03 17:10:30.336512,PKG37935,humidity,56.5,56.5,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto
+189,2025-05-03 17:10:30.336512,PKG37935,shock,1.39,1.39,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto
+187,2025-05-03 17:10:30.336512,PKG37935,temperature,22.0,22.0,"35.8802, -85.059",Chicago,Delayed,Mexico City,Toronto
+191,2025-05-03 18:30:30.336512,PKG92986,humidity,82.7,82.7,"37.8225, -54.3665",New York,In Transit,New York,Cairo
+192,2025-05-03 18:30:30.336512,PKG92986,shock,0.04,0.04,"37.8225, -54.3665",New York,In Transit,New York,Cairo
+190,2025-05-03 18:30:30.336512,PKG92986,temperature,-2.2,2.2,"37.8225, -54.3665",New York,In Transit,New York,Cairo
+194,2025-05-03 19:07:30.336512,PKG10126,humidity,91.3,91.3,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo
+195,2025-05-03 19:07:30.336512,PKG10126,shock,0.46,0.46,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo
+193,2025-05-03 19:07:30.336512,PKG10126,temperature,32.4,32.4,"6.8016, 109.1398",Singapore,In Transit,Singapore,Tokyo
+197,2025-05-03 20:11:30.336512,PKG38024,humidity,67.1,67.1,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo
+198,2025-05-03 20:11:30.336512,PKG38024,shock,0.14,0.14,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo
+196,2025-05-03 20:11:30.336512,PKG38024,temperature,-9.4,9.4,"45.0338, 34.4226",Moscow,In Transit,Paris,Tokyo
+200,2025-05-03 21:00:30.336512,PKG64384,humidity,87.2,87.2,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo
+201,2025-05-03 21:00:30.336512,PKG64384,shock,0.07,0.07,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo
+199,2025-05-03 21:00:30.336512,PKG64384,temperature,32.0,32.0,"14.3149, 95.4993",Bangkok,Processing,Bangkok,Cairo
+203,2025-05-03 22:16:30.336512,PKG14018,humidity,75.6,75.6,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok
+204,2025-05-03 22:16:30.336512,PKG14018,shock,0.44,0.44,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok
+202,2025-05-03 22:16:30.336512,PKG14018,temperature,17.3,17.3,"22.6958, 0.964",Paris,In Transit,Los Angeles,Bangkok
+206,2025-05-03 23:16:30.336512,PKG35939,humidity,69.0,69.0,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris
+207,2025-05-03 23:16:30.336512,PKG35939,shock,0.11,0.11,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris
+205,2025-05-03 23:16:30.336512,PKG35939,temperature,4.5,4.5,"48.051, 17.8981",Berlin,In Transit,Tokyo,Paris
+209,2025-05-04 01:16:30.336512,PKG49224,humidity,53.0,53.0,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin
+210,2025-05-04 01:16:30.336512,PKG49224,shock,0.17,0.17,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin
+208,2025-05-04 01:16:30.336512,PKG49224,temperature,22.9,22.9,"29.8111, 30.9537",Cairo,Processing,Cairo,Berlin
+212,2025-05-04 02:23:30.336512,PKG30150,humidity,80.8,80.8,"48.7189, 2.5373",Paris,In Transit,London,Paris
+213,2025-05-04 02:23:30.336512,PKG30150,shock,0.45,0.45,"48.7189, 2.5373",Paris,In Transit,London,Paris
+211,2025-05-04 02:23:30.336512,PKG30150,temperature,9.9,9.9,"48.7189, 2.5373",Paris,In Transit,London,Paris
+215,2025-05-04 04:43:30.336512,PKG82258,humidity,77.0,77.0,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto
+216,2025-05-04 04:43:30.336512,PKG82258,shock,0.48,0.48,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto
+214,2025-05-04 04:43:30.336512,PKG82258,temperature,22.5,22.5,"45.4534, -65.6022",New York,In Transit,Moscow,Toronto
+218,2025-05-04 07:11:30.336512,PKG77121,humidity,67.5,67.5,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok
+219,2025-05-04 07:11:30.336512,PKG77121,shock,0.39,0.39,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok
+217,2025-05-04 07:11:30.336512,PKG77121,temperature,18.7,18.7,"23.2834, 37.1037",Cairo,In Transit,Chicago,Bangkok
+221,2025-05-04 11:54:30.336512,PKG71135,humidity,82.0,82.0,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town
+222,2025-05-04 11:54:30.336512,PKG71135,shock,0.36,0.36,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town
+220,2025-05-04 11:54:30.336512,PKG71135,temperature,14.4,14.4,"-34.5562, 18.612",Cape Town,Delivered,Dubai,Cape Town
+224,2025-05-04 11:57:30.336512,PKG31172,humidity,71.6,71.6,"45.1754, -39.7402",New York,In Transit,Berlin,New York
+225,2025-05-04 11:57:30.336512,PKG31172,shock,0.28,0.28,"45.1754, -39.7402",New York,In Transit,Berlin,New York
+223,2025-05-04 11:57:30.336512,PKG31172,temperature,8.1,8.1,"45.1754, -39.7402",New York,In Transit,Berlin,New York
+227,2025-05-04 12:14:30.336512,PKG50158,humidity,83.4,83.4,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London
+228,2025-05-04 12:14:30.336512,PKG50158,shock,0.47,0.47,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London
+226,2025-05-04 12:14:30.336512,PKG50158,temperature,30.5,30.5,"20.4432, 71.7647",Mumbai,Processing,Mumbai,London
+230,2025-05-04 14:12:30.336512,PKG73335,humidity,70.0,70.0,"48.6303, -23.2247",London,In Transit,London,Chicago
+231,2025-05-04 14:12:30.336512,PKG73335,shock,0.13,0.13,"48.6303, -23.2247",London,In Transit,London,Chicago
+229,2025-05-04 14:12:30.336512,PKG73335,temperature,19.4,19.4,"48.6303, -23.2247",London,In Transit,London,Chicago
+233,2025-05-04 14:32:30.336512,PKG14853,humidity,70.8,70.8,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto
+234,2025-05-04 14:32:30.336512,PKG14853,shock,0.42,0.42,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto
+232,2025-05-04 14:32:30.336512,PKG14853,temperature,22.1,22.1,"35.3135, -113.454",Los Angeles,Processing,Los Angeles,Toronto
+236,2025-05-04 15:16:30.336512,PKG67132,humidity,58.6,58.6,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago
+237,2025-05-04 15:16:30.336512,PKG67132,shock,0.27,0.27,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago
+235,2025-05-04 15:16:30.336512,PKG67132,temperature,39.2,39.2,"26.8762, 43.9531",Dubai,Processing,Dubai,Chicago
+239,2025-05-04 16:24:30.336512,PKG70774,humidity,64.8,64.8,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo
+240,2025-05-04 16:24:30.336512,PKG70774,shock,0.34,0.34,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo
+238,2025-05-04 16:24:30.336512,PKG70774,temperature,42.5,42.5,"26.0986, 49.2955",Dubai,In Transit,Dubai,Cairo
+242,2025-05-04 19:00:30.336512,PKG85993,humidity,59.9,59.9,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin
+243,2025-05-04 19:00:30.336512,PKG85993,shock,0.28,0.28,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin
+241,2025-05-04 19:00:30.336512,PKG85993,temperature,32.4,32.4,"41.4387, 29.7666",Cairo,In Transit,Dubai,Berlin
+245,2025-05-05 00:02:30.336512,PKG88781,humidity,74.4,74.4,"45.1749, -55.9117",New York,In Transit,London,Toronto
+246,2025-05-05 00:02:30.336512,PKG88781,shock,0.2,0.2,"45.1749, -55.9117",New York,In Transit,London,Toronto
+244,2025-05-05 00:02:30.336512,PKG88781,temperature,7.9,7.9,"45.1749, -55.9117",New York,In Transit,London,Toronto
+248,2025-05-05 01:35:30.336512,PKG88477,humidity,61.9,61.9,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City
+249,2025-05-05 01:35:30.336512,PKG88477,shock,0.07,0.07,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City
+247,2025-05-05 01:35:30.336512,PKG88477,temperature,32.2,32.2,"31.643, 61.68",Dubai,In Transit,Seoul,Mexico City
+251,2025-05-05 03:32:30.336512,PKG84740,humidity,80.8,80.8,"50.4532, 4.0034",Paris,Processing,London,Mumbai
+252,2025-05-05 03:32:30.336512,PKG84740,shock,0.47,0.47,"50.4532, 4.0034",Paris,Processing,London,Mumbai
+250,2025-05-05 03:32:30.336512,PKG84740,temperature,4.8,4.8,"50.4532, 4.0034",Paris,Processing,London,Mumbai
+254,2025-05-05 08:15:30.336512,PKG42711,humidity,69.8,69.8,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City
+255,2025-05-05 08:15:30.336512,PKG42711,shock,0.14,0.14,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City
+253,2025-05-05 08:15:30.336512,PKG42711,temperature,24.1,24.1,"24.1593, -93.9932",Mexico City,In Transit,New York,Mexico City
+257,2025-05-05 12:14:30.336512,PKG55017,humidity,87.0,87.0,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin
+258,2025-05-05 12:14:30.336512,PKG55017,shock,0.43,0.43,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin
+256,2025-05-05 12:14:30.336512,PKG55017,temperature,8.5,8.5,"48.137, -20.9988",London,In Transit,Los Angeles,Berlin
+260,2025-05-05 13:10:30.336512,PKG20975,humidity,79.1,79.1,"43.9523, -74.7973",New York,Processing,Toronto,Berlin
+261,2025-05-05 13:10:30.336512,PKG20975,shock,0.19,0.19,"43.9523, -74.7973",New York,Processing,Toronto,Berlin
+259,2025-05-05 13:10:30.336512,PKG20975,temperature,6.4,6.4,"43.9523, -74.7973",New York,Processing,Toronto,Berlin
+263,2025-05-05 14:27:30.336512,PKG97731,humidity,88.8,88.8,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago
+264,2025-05-05 14:27:30.336512,PKG97731,shock,0.02,0.02,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago
+262,2025-05-05 14:27:30.336512,PKG97731,temperature,27.4,27.4,"38.4413, 82.2881",Mumbai,In Transit,Seoul,Chicago
+266,2025-05-05 14:51:30.336512,PKG96123,humidity,79.3,79.3,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town
+267,2025-05-05 14:51:30.336512,PKG96123,shock,0.48,0.48,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town
+265,2025-05-05 14:51:30.336512,PKG96123,temperature,19.2,19.2,"-10.5975, -14.2355",São Paulo,In Transit,Chicago,Cape Town
+269,2025-05-05 17:46:30.336512,PKG83963,humidity,79.8,79.8,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York
+270,2025-05-05 17:46:30.336512,PKG83963,shock,0.31,0.31,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York
+268,2025-05-05 17:46:30.336512,PKG83963,temperature,-9.0,9.0,"31.1737, -85.7712",Chicago,In Transit,Mexico City,New York
+272,2025-05-05 18:01:30.336512,PKG60448,humidity,84.3,84.3,"50.9631, 3.5141",Paris,In Transit,London,Berlin
+273,2025-05-05 18:01:30.336512,PKG60448,shock,0.39,0.39,"50.9631, 3.5141",Paris,In Transit,London,Berlin
+271,2025-05-05 18:01:30.336512,PKG60448,temperature,14.8,14.8,"50.9631, 3.5141",Paris,In Transit,London,Berlin
+275,2025-05-05 18:03:30.336512,PKG28711,humidity,65.4,65.4,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago
+276,2025-05-05 18:03:30.336512,PKG28711,shock,0.1,0.1,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago
+274,2025-05-05 18:03:30.336512,PKG28711,temperature,21.9,21.9,"37.8819, 65.4645",Dubai,In Transit,Tokyo,Chicago
+278,2025-05-05 19:08:30.336512,PKG42606,humidity,82.6,82.6,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin
+279,2025-05-05 19:08:30.336512,PKG42606,shock,0.14,0.14,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin
+277,2025-05-05 19:08:30.336512,PKG42606,temperature,8.1,8.1,"50.469, 2.2152",Paris,Delivered,Los Angeles,Berlin
+281,2025-05-05 20:21:30.336512,PKG61356,humidity,81.1,81.1,"42.4882, -56.5906",New York,In Transit,New York,Moscow
+282,2025-05-05 20:21:30.336512,PKG61356,shock,0.38,0.38,"42.4882, -56.5906",New York,In Transit,New York,Moscow
+280,2025-05-05 20:21:30.336512,PKG61356,temperature,-4.0,4.0,"42.4882, -56.5906",New York,In Transit,New York,Moscow
+284,2025-05-05 21:37:30.336512,PKG20954,humidity,83.1,83.1,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles
+285,2025-05-05 21:37:30.336512,PKG20954,shock,0.25,0.25,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles
+283,2025-05-05 21:37:30.336512,PKG20954,temperature,19.9,19.9,"5.4715, -60.3225",São Paulo,In Transit,Cape Town,Los Angeles
+287,2025-05-06 03:42:30.336512,PKG57304,humidity,74.5,74.5,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin
+288,2025-05-06 03:42:30.336512,PKG57304,shock,0.12,0.12,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin
+286,2025-05-06 03:42:30.336512,PKG57304,temperature,7.5,7.5,"50.8295, 11.3327",Berlin,In Transit,Paris,Berlin
+290,2025-05-06 05:08:30.336512,PKG73932,humidity,85.2,85.2,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore
+291,2025-05-06 05:08:30.336512,PKG73932,shock,0.22,0.22,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore
+289,2025-05-06 05:08:30.336512,PKG73932,temperature,32.4,32.4,"4.4157, 106.9115",Singapore,Delivered,Seoul,Singapore
+293,2025-05-06 07:48:30.336512,PKG52929,humidity,69.2,69.2,"39.7644, 112.0573",Seoul,Processing,Seoul,London
+294,2025-05-06 07:48:30.336512,PKG52929,shock,0.37,0.37,"39.7644, 112.0573",Seoul,Processing,Seoul,London
+292,2025-05-06 07:48:30.336512,PKG52929,temperature,1.3,1.3,"39.7644, 112.0573",Seoul,Processing,Seoul,London
+296,2025-05-06 08:34:30.336512,PKG94654,humidity,55.0,55.0,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok
+297,2025-05-06 08:34:30.336512,PKG94654,shock,0.23,0.23,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok
+295,2025-05-06 08:34:30.336512,PKG94654,temperature,32.2,32.2,"26.1267, 31.7888",Cairo,In Transit,Toronto,Bangkok
+299,2025-05-06 10:09:30.336512,PKG49666,humidity,64.5,64.5,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles
+300,2025-05-06 10:09:30.336512,PKG49666,shock,0.21,0.21,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles
+298,2025-05-06 10:09:30.336512,PKG49666,temperature,25.5,25.5,"40.6785, -65.1911",New York,In Transit,Paris,Los Angeles

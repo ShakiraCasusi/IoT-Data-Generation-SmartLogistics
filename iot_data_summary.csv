@@ -1,0 +1,4 @@
+sensor_type,total_records,min_value,max_value,avg_value,std_deviation
+temperature,100,0.6,42.5,19.402,9.931044885874423
+humidity,100,41.7,96.0,74.04799999999999,11.381941039127808
+shock,100,0.01,1.98,0.3044,0.3164331515406364
